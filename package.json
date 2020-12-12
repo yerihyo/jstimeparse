@@ -1,0 +1,28 @@
+{
+  "name": "jstimeparse",
+  "version": "1.0.0",
+  "description": "Parse string to timedelta secs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yerihyo/jstimeparse.git"
+  },
+  "keywords": [
+    "javascript",
+    "timeparse",
+    "pytimeparse"
+  ],
+  "author": "Moonyoung Kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yerihyo/jstimeparse/issues"
+  },
+  "homepage": "https://github.com/yerihyo/jstimeparse#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
